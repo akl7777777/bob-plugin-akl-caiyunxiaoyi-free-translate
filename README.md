@@ -4,6 +4,8 @@
 初始版本下载地址,双击即可安装
 https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate/releases/download/v_0.0.1/bob-plugin-akl-caiyunxiaoyi-free-translate_v0.0.1.bobplugin
 
+需要deepl插件的朋友请看这里:[deepl免token翻译插件](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)
+
 需要有道翻译插件的朋友请看这里:[有道翻译插件](https://github.com/akl7777777/bob-plugin-akl-youdao-free-translate)
 
 需要百度翻译插件的朋友请看这里:[百度翻译插件](https://github.com/akl7777777/bob-plugin-akl-baidu-free-translate)
