@@ -14,7 +14,7 @@ https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate/release
 bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网地址:https://bobtranslate.com/
 
 
-效果图如下
+效果图如下,通过对照我们可以发现,下方是官网的免费key,经常容易失败,为了解决这个痛点,我开发了一个免秘钥版本,自用到现在从未失败过
 
 ![image](https://user-images.githubusercontent.com/84266551/221086464-cf0a6f4b-52ee-4c16-a103-fae6a7f5f3a9.png)
 
