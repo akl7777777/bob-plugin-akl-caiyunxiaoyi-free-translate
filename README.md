@@ -1,6 +1,8 @@
 # bob-plugin-akl-caiyunxiaoyi-free-translate
 免秘钥彩云小译(No key Needs)
 
+初始版本下载地址,双击即可安装
+https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate/releases/download/v_0.0.1/bob-plugin-akl-caiyunxiaoyi-free-translate_v0.0.1.bobplugin
 
 效果图如下
 
