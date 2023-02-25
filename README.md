@@ -4,14 +4,17 @@
 初始版本下载地址,双击即可安装
 https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate/releases/download/v_0.0.1/bob-plugin-akl-caiyunxiaoyi-free-translate_v0.0.1.bobplugin
 
-需要deepl插件的朋友请看这里:[deepl免token翻译插件](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)
+### bob翻译插件大合集:
 
-需要有道翻译插件的朋友请看这里:[有道翻译插件](https://github.com/akl7777777/bob-plugin-akl-youdao-free-translate)
+>[DeepL翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)
 
-需要百度翻译插件的朋友请看这里:[百度翻译插件](https://github.com/akl7777777/bob-plugin-akl-baidu-free-translate)
+>[有道翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-youdao-free-translate)
 
-需要MOJi辞書插件的朋友请看这里:[只为日语 - MOJi辞書（じしょ）](https://github.com/akl7777777/bob-plugin-akl-mojidict-translate)
+>[百度翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-baidu-free-translate)
 
+>[彩云小译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate)
+
+>[只为日语 - MOJi辞書（じしょ）](https://github.com/akl7777777/bob-plugin-akl-mojidict-translate)
 
 bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网地址:https://bobtranslate.com/
 
