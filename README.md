@@ -1,8 +1,14 @@
 # bob-plugin-akl-caiyunxiaoyi-free-translate
 免秘钥彩云小译(No key Needs)
 
+bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网地址:https://bobtranslate.com/
+
 初始版本下载地址,双击即可安装
 https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate/releases/download/v_0.0.1/bob-plugin-akl-caiyunxiaoyi-free-translate_v0.0.1.bobplugin
+
+
+
+使用方法:双击安装,直接使用
 
 ### bob翻译插件大合集:
 
@@ -12,14 +18,14 @@ https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate/release
 
 >[火山翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-volcengine-free-translate)
 
+>[腾讯翻译君插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-tencent-free-translate/releases/download/v_0.0.1/bob-plugin-akl-tencent-free-translate_v0.0.1.bobplugin)
+
 >[百度翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-baidu-free-translate)
 
 >[彩云小译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate)
 
 >[只为日语 - MOJi辞書（じしょ）](https://github.com/akl7777777/bob-plugin-akl-mojidict-translate)
 
-
-bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网地址:https://bobtranslate.com/
 
 
 效果图如下,通过对照我们可以发现,下方是官网的免费key,经常容易失败,为了解决这个痛点,我开发了一个免秘钥版本,上方是我开发的free版本,自用到现在从未失败过
