@@ -11,8 +11,12 @@ https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate/release
 使用方法:双击安装,直接使用
 
 
+### 友情链接==>ChatGPT免费桌面版客户端(支持Windows,macOS)
+下载地址:[OpenAI-ChatGPT免费桌面版客户端](https://github.com/akl7777777/free-chatgpt-client-pub)
+
 ### bob翻译插件大合集:
 
+>[OpenAI ChatGPT(免秘钥)插件](https://github.com/akl7777777/bob-plugin-akl-chatgpt-free-translate)
 
 >[DeepL翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)
 
