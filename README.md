@@ -4,7 +4,7 @@
 bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网地址:https://bobtranslate.com/
 
 初始版本下载地址,双击即可安装
-https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate/releases/download/v_0.0.1/bob-plugin-akl-caiyunxiaoyi-free-translate_v0.0.1.bobplugin
+https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate/releases/download/v_0.0.2/bob-plugin-akl-caiyunxiaoyi-free-translate_v0.0.2.bobplugin
 
 
 
