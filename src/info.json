@@ -1,9 +1,9 @@
 {
     "identifier": "com.akl.bob-plugin-akl-caiyunxiaoyi-free-translate",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "category": "translate",
     "name": "Free 彩云小译",
-    "summary": "彩云小译免token免key",
+    "summary": "彩云小译免token免登录",
     "icon": "icon.png",
     "author": "akl7777777 <akl7777777@163.com>",
     "homepage": "https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate",
