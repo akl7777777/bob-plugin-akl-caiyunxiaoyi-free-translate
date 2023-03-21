@@ -2,32 +2,6 @@ var config = require('./config.js');
 var utils = require('./utils.js');
 
 
-/*
-https://interpreter.cyapi.cn/v1/translator
-
-{
-    "source": "API reference documentation\nThe API reference documentation provides detailed information about a function or object in Node.js. This documentation indicates what arguments a method accepts, the return value of that method, and what errors may be related to that method. It also indicates which methods are available for different versions of Node.js.\n\nThis documentation describes the built-in modules provided by Node.js. It does not document modules provided by the community.",
-    "detect": true,
-    "os_type": "ios",
-    "device_id": "F1F902F7-1780-4C88-848D-71F35D88A602",
-    "trans_type": "en2zh",
-    "media": "text",
-    "request_id": 424238335,
-    "user_id": "",
-    "dict": true
-}
-
-{
-    "isdict": 0,
-    "confidence": 0.8,
-    "target": "API 参考文档 API 参考文档提供了 Node.js 中函数或对象的详细信息。此文档指示方法接受哪些参数、该方法的返回值以及可能与该方法相关的错误。它还指出哪些方法可用于不同版本的 Node.js。本文档描述了 Node.js 提供的内置模块。它不记录社区提供的模块。",
-    "rc": 0
-}
-
-Content-Type:application/json
-x-authorization:token ssdj273ksdiwi923bsd9
-user-agent:caiyunInterpreter/5 CFNetwork/1404.0.5 Darwin/22.3.0
-*/
 function init_data(source_lang, target_lang) {
   return {
     "source": "",
