@@ -1,12 +1,19 @@
 {
-    "identifier": "com.akl.bob-plugin-akl-caiyunxiaoyi-free-translate",
-    "versions": [
-        {
-            "version": "0.0.1",
-            "desc": "初始版本",
-            "sha256": "136107a436ecdfc8a51b838521ae95a0b30b7495a8e9b92a2f5a60edad6b60ca",
-            "url": "https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate/releases/download/v_0.0.1/bob-plugin-akl-caiyunxiaoyi-free-translate_v0.0.1.bobplugin",
-            "minBobVersion": "0.5.0"
-        }
-    ]
+  "identifier": "com.akl.bob-plugin-akl-caiyunxiaoyi-free-translate",
+  "versions": [
+    {
+      "version": "0.0.3",
+      "desc": "Merge remote-tracking branch 'origin/main'",
+      "sha256": "50e653de8ad3b77d8244dca37bedf8e6d52806e4cf5599d71918e78f5dc15ca0",
+      "url": "https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate/releases/download/v0.0.3/bob-plugin-akl-caiyunxiaoyi-free-translate_v0.0.3.bobplugin",
+      "minBobVersion": "0.5.0"
+    },
+    {
+      "version": "0.0.1",
+      "desc": "初始版本",
+      "sha256": "136107a436ecdfc8a51b838521ae95a0b30b7495a8e9b92a2f5a60edad6b60ca",
+      "url": "https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate/releases/download/v_0.0.1/bob-plugin-akl-caiyunxiaoyi-free-translate_v0.0.1.bobplugin",
+      "minBobVersion": "0.5.0"
+    }
+  ]
 }
